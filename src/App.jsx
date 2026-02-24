@@ -14,6 +14,7 @@ function App() {
       <Title />
       <Discerption />
       <Title />
+      <Title />
       <Discerption />
       
     </>
